@@ -1,7 +1,7 @@
 {
 	"host": "guerrinhadoscria.aternos.me",
 	"port": "56574",
-	"username": "On",
+	"username": "Herobrine",
 	"logger": [ true
 		,"true : display not necessary logs. (ex: key inputs on bot)",
 		"false : display only necessary logs. (ex: errors on bot & server)"
